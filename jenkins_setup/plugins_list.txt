@@ -1,0 +1,5 @@
+git
+email-ext
+junit
+build-timeout
+git-parameter
